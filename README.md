@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 🚀 **Jair Coronado**  
-## 🖥️ SharePoint Developer  
+# 🚀 **Jair Y. Coronado A.**  
+## 🖥️ SharePoint Developer 
 
 📍 Bogotá, D.C., Colombia  
 📧 [jairyesidk@gmail.com](mailto:jairyesidk@gmail.com)  
@@ -16,21 +16,21 @@ Desarrollador de software especializado en **administración de Microsoft ShareP
 ---
 
 ## 🛠️ **Habilidades**  
-- 🔹 Desarrollo Full Stack avanzado  
+- 🔹 Desarrollo Full Stack
 - 🔹 Automatización de flujos en Power Automate  
 - 🔹 Desarrollo con **SharePoint Framework (SPFx)** usando **React y TypeScript**  
 - 🔹 Implementación de **Scrum y metodologías ágiles**  
-- 🔹 **Desarrollo web completo** con **HTML, CSS, JavaScript, TypeScript**  
+- 🔹 **Desarrollo web **  **JS, React, Angular, TypeScript**  
 
 ---
 
 ## 🎓 **Educación**  
-📘 **Ingeniería Mecánica** | *Universidad Escuela Colombiana De Carreras Industriales* (2019)  
+📘 **Ingeniería Mecánica**
 
 ---
 
 ## 🌍 **Idiomas**  
-- 🇬🇧 Inglés (Intermedio - B2) | *Ec-Embassy English, Auckland, Nueva Zelanda*  
+- 🇬🇧 Inglés (Intermedio - B2)
 
 ---
 
