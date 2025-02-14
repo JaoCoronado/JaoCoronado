@@ -6,7 +6,8 @@
 📍 Bogotá, D.C., Colombia  
 📧 [jairyesidk@gmail.com](mailto:jairyesidk@gmail.com)  
 📞 +57 313 211 9850  
-🔗 [LinkedIn](https://www.linkedin.com/in/jaircoronadoalbarracin/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jaircoronadoalbarracin/)
+🤘[SharePoint Portfolio](https://jaocoronado.github.io/sharepoint-portfolio/)
 
 ---
 
